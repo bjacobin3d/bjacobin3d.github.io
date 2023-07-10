@@ -1,0 +1,26 @@
+---
+layout: main
+subtitle: " - portfolio"
+activeLink: "portfolio"
+---
+<h1 class="page-heading">
+    portfolio
+</h1>
+
+<section class="page-content fs--m">
+    <p>Below are just some examples of things I've made and built in my free time.</p>
+
+    <section class="page-content__subsect">
+        <h2 class="page-content__subsect-title">entries</h2>
+
+        <ul class="post-list">
+            {% for post in collections.post | reverse %}
+                <li>
+                    <img class="post-image margin-b--m" src="https://placehold.co/600x400" />
+                    <h4>Placeholder</h4>
+                    <p>This is some placeholder text for the project.</p>
+                </li>
+            {% endfor %}
+        </ul>
+    </section>
+</section>

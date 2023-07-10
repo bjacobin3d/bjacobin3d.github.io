@@ -1,0 +1,62 @@
+[
+    {
+        "company": "Abenity Inc.",
+        "titles": [
+            {
+                "title": "Manager of Product Development and Engineering",
+                "from": "November 2020",
+                "to": "Current"
+            },
+            {
+                "title": "Lead Backend Developer",
+                "from": "November 2019",
+                "to": "November 2020"
+            },
+            {
+                "title": "Backend Developer",
+                "from": "November 2017",
+                "to": "November 2019"
+            }
+        ]
+    },
+    {
+        "company": "ePublishing",
+        "titles": [
+            {
+                "title": "Frontend Developer",
+                "from": "November 2016",
+                "to": "November 2017"
+            },
+            {
+                "title": "Junior Frontend Developer",
+                "from": "November 2015",
+                "to": "November 2016"
+            }
+        ]
+    },
+    {
+        "company": "RoundingWell",
+        "titles": [
+            {
+                "title": "Frontend Developer",
+                "from": "June 2015",
+                "to": "November 2015"
+            },
+            {
+                "title": "Software Quality Engineer",
+                "from": "June 2014",
+                "to": "June 2015"
+            }
+        ]
+    },
+    {
+        "company": "OmniCell",
+        "titles": [
+            {
+                "title": "Software Quality Engineer",
+                "from": "June 2013",
+                "to": "June 2014"
+            }
+        ]
+    }
+]
